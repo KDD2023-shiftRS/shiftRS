@@ -23,19 +23,6 @@ python train.py --cfg ./config/DATASETNAME/DATASETNAME_SUFFIX.yaml
 
 `SUFFIX` can be `imb001/002/01` for `cifar10/100`, `resnet10/50` for `imagenet`, respectively.
 
-The saved folder (including logs and checkpoints) is organized as follows.
-```
-shiftRS
-├── saved
-│   ├── modelname_date
-│   │   ├── ckps
-│   │   │   ├── current.pth.tar
-│   │   │   └── model_best.pth.tar
-│   │   └── logs
-│   │       └── modelname.txt
-│   ...   
-```
-
 ## Acknowledgement
 
 We thank the authors for the following repositories for code reference:
