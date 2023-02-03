@@ -40,4 +40,4 @@ shiftRS
 
 We thank the authors for the following repositories for code reference:
 [LDAM-DRW](https://github.com/kaidic/LDAM-DRW), 
-[MiSLAS](https://github.com/dvlab-research/MiSLAS), 
+[MiSLAS](https://github.com/dvlab-research/MiSLAS)
